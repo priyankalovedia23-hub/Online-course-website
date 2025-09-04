@@ -26,6 +26,3 @@ This project demonstrates my skills in front-end development, responsive design,
 
   Bootstrap
 
-BootstrapJavaScript
-
-Bootstrap
